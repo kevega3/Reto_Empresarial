@@ -1,0 +1,121 @@
+
+.colorMenu{
+	background-image: url("https://images.pexels.com/photos/5695301/pexels-photo-5695301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	padding: 0;
+	margin: 0;
+}
+
+.menu{
+	display: flex;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+}
+.contenedorcheckbox{
+	padding-left: 10px;
+	display: flex;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+}
+.ContainerSmart{
+	display: flex;
+	align-items: center;
+	padding-left: 10px;
+}
+.letra{
+	font-weight: normal;
+}
+.TituloSmart{
+	color:#737373 ;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	padding-left: 10px;
+	padding-top: 10px;
+	font-size: 20px;
+}
+.espacioMenu {
+	color: #000;
+}
+.iconos{
+	color: #7fd365;
+}
+@media screen and (max-width: 767px){
+
+	.contenedorcheckbox{
+		visibility: hidden;
+		display: none;
+	}
+	
+}
+.textoICons{
+    font-size: 120%;
+}
+
+
+
+
+
+
+
+
+/* incoss */
+
+.menu {
+    display: flex;
+    justify-content: center;
+  }
+  .menu a span:first-child {
+    display: inline-block;
+    padding: 0px 5px 0px 5px;
+  }
+  .menu a {
+    display: block;
+    position: relative;
+    overflow: hidden;
+  }
+  .menu a span:last-child {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-100%);
+  }
+  .menu a span {
+    transition: transform 0.2s ease-out;
+  }
+  .menu a:hover span:first-child {
+    transform: translateY(100%);
+  }
+  
+  .menu a:hover span:last-child {
+    transform: none;
+  }
+  .menu[data-animation="to-top"] a span:last-child {
+    transform: translateY(100%);
+  }
+  
+  .menu[data-animation="to-top"] a:hover span:first-child {
+    transform: translateY(-100%);
+  }
+  
+  .menu[data-animation="to-right"] a span:last-child {
+    transform: translateX(-100%);
+  }
+  
+  .menu[data-animation="to-right"] a:hover span:first-child {
+    transform: translateX(100%);
+  }
+  
+  .menu[data-animation="to-left"] a span:last-child {
+    transform: translateX(100%);
+  }
+  
+  .menu[data-animation="to-left"] a:hover span:first-child {
+    transform: translateX(-100%);
+  }

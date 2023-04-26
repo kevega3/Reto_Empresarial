@@ -1,23 +1,52 @@
 .Contenedor_Inicio{
-    
     background: #3C3B3B;
-    height: 500px;
+    
 }
 .Inicio_Columas {
-  margin: 15px;
-  padding: 25px 85px;
-  position: relative;
-  height: 100%;
-  word-wrap: break-word;
+    justify-content: center;
+    justify-items: center;
+    display: grid;
+    height: 500px;
+    position: relative;
+    
+}  
+.Segundo_Columna_Texto{
+    margin-top: 100px;
+    position: absolute;
+    width: 90%;
+    padding-left: 71px;
 }
-
+.Segundo_Columna_Imagen{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    display: grid;
+    height: 500px;
+}
 
 .Titulo_Inicio{
     color: white;
-    
+    font-size: 4.5vh;
 }
-.Lorem_Inicio{
-    color: white;
-    font-size: 2.5vh;
-    position: absolute;
+.Lorem_Inicio {
+  color: white;
+  font-size: 2.5vh;
+  
+  width: 100%; /* Establece el ancho al 100% */
+  overflow-wrap: break-word; /* Permite que el texto se divida en varias líneas */
+}
+.Contenedor_Img{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    display: grid;
+    height: 450px;
+    width: 600px;
+    border-radius: 100px;
+}
+.Img_Inicio{
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 300px 40px rgba(0,0,0,1);
+-moz-box-shadow: 0px 0px 300px 40px rgba(0,0,0,1);
+box-shadow: 0px 0px 300px 40px rgba(0,0,0,1);
 }
