@@ -1,0 +1,23 @@
+.Contenedor_Inicio{
+    
+    background: #3C3B3B;
+    height: 500px;
+}
+.Inicio_Columas {
+  margin: 15px;
+  padding: 25px 85px;
+  position: relative;
+  height: 100%;
+  word-wrap: break-word;
+}
+
+
+.Titulo_Inicio{
+    color: white;
+    
+}
+.Lorem_Inicio{
+    color: white;
+    font-size: 2.5vh;
+    position: absolute;
+}
