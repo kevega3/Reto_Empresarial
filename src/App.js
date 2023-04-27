@@ -5,6 +5,7 @@ import Menu from './Componentes/Menu.jsx';
 import './styles/Boostrap.css';
 import { SilerVEmpresarial } from './Componentes/SlideVEmpresarial';
 import { Enfoque } from './Componentes/Enfoque';
+import { BtnWhatsapp } from './Componentes/BtnWhatsapp';
 
 
 function App() {
@@ -22,13 +23,13 @@ function App() {
 
       <SilerVEmpresarial/>
 
-    <Enfoque/>
+      <Enfoque/>
 
       <div className='pruebas'>
 
       </div>
       
-      
+      <BtnWhatsapp/>
     </div>
     
   );
