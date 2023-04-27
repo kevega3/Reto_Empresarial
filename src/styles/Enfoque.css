@@ -1,0 +1,16 @@
+.containerS{
+    
+    background: #3C3B3B;
+    padding: 100px;
+}
+
+h1{
+    color: white;
+}
+.contCard{
+    margin-top: 20px;
+}
+.producto img{
+    width: 500px;
+    height: 500px;
+}

@@ -1,0 +1,16 @@
+.containerS{
+    
+    background: #3C3B3B;
+    padding: 100px;
+}
+
+.containerS span{
+    
+    display: none;
+}
+
+.item{
+    padding: 10px;
+    color: white;
+    font-size: 2.5vh;
+}
