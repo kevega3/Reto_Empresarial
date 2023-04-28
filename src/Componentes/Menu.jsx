@@ -1,7 +1,10 @@
 import React from "react";
 import '../styles/Menu.css';
-// import 'https://kit.fontawesome.com/c4cc899971.js';   
-import '../Scripts/IconsFonasome.js';
+import 'https://kit.fontawesome.com/62cb762d5c.js';
+
+
+
+
 function Menu(props){
     return(
         
@@ -19,7 +22,7 @@ function Menu(props){
               <a  className="nav-link  letra text-white textoICons" aria-current="page"  >
                 <span>Inicio</span>
                 <span>
-                  <i className="fas fa-address-card iconos" aria-hidden="true"></i>
+                <i class="fa-brands fa-facebook"></i>
                 </span>
               </a>
             </li>
@@ -27,7 +30,7 @@ function Menu(props){
               <a  className="nav-link  letra text-white textoICons" aria-current="page"  >
                 <span>Contactenos</span>
                 <span>
-                  <i className="fas fa-address-card iconos" aria-hidden="true"></i>
+                
                 </span>
               </a>
             </li>
@@ -35,7 +38,7 @@ function Menu(props){
               <a  className="nav-link  letra text-white textoICons" aria-current="page"  >
                 <span>Ejemplo</span>
                 <span>
-                  <i className="fas fa-address-card iconos" aria-hidden="true"></i>
+                
                 </span>
               </a>
             </li>
@@ -43,7 +46,7 @@ function Menu(props){
               <a  className="nav-link  letra text-white textoICons" aria-current="page"  >
                 <span>Inicio</span>
                 <span>
-                  <i className="fas fa-address-card iconos" aria-hidden="true"></i>
+                  
                 </span>
               </a>
             </li>

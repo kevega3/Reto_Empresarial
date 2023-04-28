@@ -1,7 +1,7 @@
 .containerS{
-    
     background: #3C3B3B;
-    padding: 100px;
+    padding: 0px 100px;
+    width: 100%;
 }
 
 h1{
@@ -13,4 +13,6 @@ h1{
 .producto img{
     width: 500px;
     height: 500px;
+    margin: 21px;
+       
 }

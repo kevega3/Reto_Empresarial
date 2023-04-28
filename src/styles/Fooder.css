@@ -1,0 +1,69 @@
+.Contenedor_Fooder{
+    width: 100%;
+    height: auto;
+    background: #17539C;
+    
+}
+
+
+.Contenedor_Fooder{
+    padding: 25px;
+}
+
+.Titulo_Fooder{
+    color: white;
+    
+}
+.Contenedor_Iconos{
+    display: inline-flex;
+}
+.Botones_Redes_Sociales{
+    border-radius: 100%;
+    background: #FFF;
+    padding: 10px 11px;
+    width: 50px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 4px;
+    cursor: pointer;
+}
+.Contenedor_Titulos_Fooder{
+    border-bottom: 4px solid white;
+    width: 50%;
+}
+.Contenedor_boton{
+    display: grid;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Boton_TrabajeConNosotros{
+    padding: 10px 45px;
+    background: transparent;
+    border: solid 3px white;
+    color: white;
+}
+
+.td_foder{
+    color: white;
+}
+.Contenedor_Tabla_Fooder{
+    padding-top: 25px;
+}
+
+.Imagen_Fooder{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.centrar{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.iconfodder{
+    color: #17539c;
+    font-size: 25px;
+}

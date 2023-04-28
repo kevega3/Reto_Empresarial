@@ -703,7 +703,7 @@ progress {
 }
 
 .row {
-    --bs-gutter-x: 1.5rem;
+    /* --bs-gutter-x: 1.5rem; */
     --bs-gutter-y: 0;
     display: flex;
     flex-wrap: wrap;
@@ -4682,9 +4682,9 @@ fieldset:disabled .btn {
 
     .navbar-expand-lg .navbar-collapse {
         display: flex !important;
-        flex-basis: auto
+        flex-basis: auto;
+        padding-right: 1vh;
     }
-
     .navbar-expand-lg .navbar-toggler {
         display: none
     }

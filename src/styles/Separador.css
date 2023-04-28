@@ -1,0 +1,23 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
+
+
+.Contenedor_Separador{
+    background-color: #376ace ;
+    height: 125px;
+    width: 100% ;
+    padding: 20px 40px ;
+    display: grid;
+    justify-content: left;
+    align-items: left;
+
+}
+
+.Contedor_Mayor_Separador{
+    padding: 20px 0;
+    background: #3A3939 ;
+}
+.Titulo_Seárador{
+    margin: auto;
+    font-family: 'Caveat', cursive;
+}

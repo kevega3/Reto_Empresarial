@@ -14,7 +14,6 @@ function Enfoque(props) {
 
             <div className="row">
                 <div className="col-lg-12 ">
-                    <h1>A que nos dedicamos?</h1>
                 </div>
                 <div className="col-lg-6 contCard">
                 <Card >
@@ -80,4 +79,4 @@ function Enfoque(props) {
     );
 }
 
-export {Enfoque};
+export default Enfoque;
