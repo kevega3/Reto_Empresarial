@@ -3,10 +3,15 @@ import './App.css';
 import Inicio from './Componentes/Inicio.jsx';
 import Menu from './Componentes/Menu.jsx';
 import './styles/Boostrap.css';
+
 import  SilerVEmpresarial  from './Componentes/SlideVEmpresarial';
 import  Enfoque  from './Componentes/Enfoque';
 import Separador from './Componentes/Separador';
 import Fooder from './Componentes/Fooder';
+import  BtnWhatsapp  from './Componentes/BtnWhatsapp';
+
+
+
 function App() {
   return (
     <div className="App">
@@ -30,7 +35,11 @@ function App() {
 
     <Enfoque/>
     
-    <Fooder/>
+
+
+      
+      <BtnWhatsapp/> 
+      <Fooder/>
     </div>
     
   );
