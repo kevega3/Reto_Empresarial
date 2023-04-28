@@ -1,5 +1,6 @@
 import React from "react";
 import {FloatingWhatsApp} from 'react-floating-whatsapp';
+import Logo from '../Img/LogAmp2.png'
 
 
 function BtnWhatsapp(params) {
@@ -9,7 +10,8 @@ function BtnWhatsapp(params) {
             accountName="Sevilla SAS"
             darkMode="true"
             chatMessage="Hola, estas interesado en nuestros servicios"
-            
+            avatar={Logo}
+            placeholder="Escribenos..."
         />
     )
 }

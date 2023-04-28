@@ -9,6 +9,7 @@ import  Enfoque  from './Componentes/Enfoque';
 import Separador from './Componentes/Separador';
 import Fooder from './Componentes/Fooder';
 import  BtnWhatsapp  from './Componentes/BtnWhatsapp';
+import { Politicas } from './Componentes/Politicas';
 
 
 
@@ -25,7 +26,7 @@ function App() {
       img = 'https://img.freepik.com/foto-gratis/logo-reciclaje-eco-verde-sobre-fondo-madera_23-2148115647.jpg?w=740&t=st=1682476467~exp=1682477067~hmac=0751b2ed29b657985c45c4ece451959c39ec9173e9f8f695e361f824800eeba1'
       />
       <Separador
-      titulo = 'Principios y Valores'
+      titulo = 'Estrategia corporativa'
       />
       <SilerVEmpresarial/>
       
@@ -35,8 +36,10 @@ function App() {
 
     <Enfoque/>
     
-
-
+    <Separador
+      titulo = 'Nuestra Politica ambiental'
+      />
+    <Politicas/>
       
       <BtnWhatsapp/> 
       <Fooder/>

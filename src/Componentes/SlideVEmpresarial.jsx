@@ -24,7 +24,7 @@ function SilerVEmpresarial() {
 
                 <Carousel.Item>
                 <div className="item">
-                    
+                    <h1>Principios y valores</h1>
                     <ul>
                         <li>Ambiente familiar</li>
                         <li>Servicio</li>
