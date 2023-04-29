@@ -6,7 +6,7 @@ import Logo from '../Img/LogAmp2.png'
 function BtnWhatsapp(params) {
     return(
         <FloatingWhatsApp
-            phoneNumber="573003387000"
+            phoneNumber="573508382041"
             accountName="Sevilla SAS"
             darkMode="true"
             chatMessage="Hola, estas interesado en nuestros servicios"

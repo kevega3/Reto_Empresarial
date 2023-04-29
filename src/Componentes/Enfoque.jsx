@@ -52,27 +52,6 @@ function Enfoque(props) {
                         <h3>Cabeceros</h3>
                         </Carousel.Caption>
                     </Carousel.Item>
-                    <Carousel.Item>
-                        <img
-                        className="d-block w-100"
-                        src={imgComedores}
-                        alt="Comedores"
-                        />
-
-                        <Carousel.Caption>
-                        <h3>Comedores</h3>
-                        </Carousel.Caption>
-                    </Carousel.Item>
-                    <Carousel.Item>
-                        <img
-                        className="d-block w-100"
-                        src={imgSalas}
-                        alt="Salas"
-                        />
-                        <Carousel.Caption>
-                        <h3>Salas</h3>
-                        </Carousel.Caption>
-                    </Carousel.Item>
                     </Carousel>
                 </div>
             </div>
