@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Reto_Empresarial/build/static/css/main.41328410.css",
+    "main.js": "/Reto_Empresarial/build/static/js/main.307e53ca.js",
+    "static/media/Header.jpg": "/Reto_Empresarial/build/static/media/Header.4f24f3e70c8ce28fb748.jpg",
+    "static/media/Neciocios_Verdes.png": "/Reto_Empresarial/build/static/media/Neciocios_Verdes.932c7fc592fa6465cb7d.png",
+    "static/media/economiaCircular.PNG": "/Reto_Empresarial/build/static/media/economiaCircular.d96d8b53bcf5bccfee7c.PNG",
+    "static/media/IconoRS.png": "/Reto_Empresarial/build/static/media/IconoRS.c29f5f12e4b25ac81f06.png",
+    "static/media/PREAD.png": "/Reto_Empresarial/build/static/media/PREAD.53458619f54b4149c3eb.png",
+    "static/media/LogAmp2.png": "/Reto_Empresarial/build/static/media/LogAmp2.7cccec5bb3efc754713b.png",
+    "static/media/Comedores.jpg": "/Reto_Empresarial/build/static/media/Comedores.bfd691658f454dada191.jpg",
+    "static/media/Cabeceros.jpg": "/Reto_Empresarial/build/static/media/Cabeceros.ee9d312dcab5ee56fbde.jpg",
+    "static/media/Salas.jpg": "/Reto_Empresarial/build/static/media/Salas.cd2bfc20e0392d2c7f81.jpg",
+    "static/media/Basecama.jpg": "/Reto_Empresarial/build/static/media/Basecama.41abc7b00f3eceaa30d0.jpg",
+    "index.html": "/Reto_Empresarial/build/index.html",
+    "main.41328410.css.map": "/Reto_Empresarial/build/static/css/main.41328410.css.map",
+    "main.307e53ca.js.map": "/Reto_Empresarial/build/static/js/main.307e53ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41328410.css",
+    "static/js/main.307e53ca.js"
+  ]
+}
