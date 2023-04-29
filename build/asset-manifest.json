@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Reto_Empresarial/build/static/css/main.41328410.css",
-    "main.js": "/Reto_Empresarial/build/static/js/main.307e53ca.js",
+    "main.js": "/Reto_Empresarial/build/static/js/main.48ac7ac3.js",
     "static/media/Header.jpg": "/Reto_Empresarial/build/static/media/Header.4f24f3e70c8ce28fb748.jpg",
     "static/media/Neciocios_Verdes.png": "/Reto_Empresarial/build/static/media/Neciocios_Verdes.932c7fc592fa6465cb7d.png",
     "static/media/economiaCircular.PNG": "/Reto_Empresarial/build/static/media/economiaCircular.d96d8b53bcf5bccfee7c.PNG",
@@ -14,10 +14,10 @@
     "static/media/Basecama.jpg": "/Reto_Empresarial/build/static/media/Basecama.41abc7b00f3eceaa30d0.jpg",
     "index.html": "/Reto_Empresarial/build/index.html",
     "main.41328410.css.map": "/Reto_Empresarial/build/static/css/main.41328410.css.map",
-    "main.307e53ca.js.map": "/Reto_Empresarial/build/static/js/main.307e53ca.js.map"
+    "main.48ac7ac3.js.map": "/Reto_Empresarial/build/static/js/main.48ac7ac3.js.map"
   },
   "entrypoints": [
     "static/css/main.41328410.css",
-    "static/js/main.307e53ca.js"
+    "static/js/main.48ac7ac3.js"
   ]
 }
