@@ -22,7 +22,16 @@ function Menu(props){
               <a  className="nav-link  letra text-white textoICons" aria-current="page"  >
                 <span>Inicio</span>
                 <span>
-                <i class="fa-brands fa-facebook"></i>
+                <i class="fa-solid fa-house iconos_Menu"></i>
+                </span>
+              </a>
+            </li>
+            <li className="nav-item">
+              <a href="#enfoque" className="nav-link  letra text-white textoICons" aria-current="page"  >
+                
+                <span>Conócenos</span>
+                <span>
+                <i class="fas fa-address-card iconos_Menu" aria-hidden="true"></i>
                 </span>
               </a>
             </li>
@@ -30,23 +39,16 @@ function Menu(props){
               <a  className="nav-link  letra text-white textoICons" aria-current="page"  >
                 <span>Contactenos</span>
                 <span>
+                <i class="fas fa-id-card-alt iconos_Menu"></i>
                 
                 </span>
               </a>
             </li>
             <li className="nav-item">
               <a  className="nav-link  letra text-white textoICons" aria-current="page"  >
-                <span>Ejemplo</span>
+              <span>Login</span>
                 <span>
-                
-                </span>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a  className="nav-link  letra text-white textoICons" aria-current="page"  >
-                <span>Inicio</span>
-                <span>
-                  
+                <i class="fa-solid fa-right-to-bracket iconos_Menu"></i>
                 </span>
               </a>
             </li>

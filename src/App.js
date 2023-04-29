@@ -10,13 +10,13 @@ import Separador from './Componentes/Separador';
 import Fooder from './Componentes/Fooder';
 import  BtnWhatsapp  from './Componentes/BtnWhatsapp';
 import { Politicas } from './Componentes/Politicas';
-
+import  Header  from './Componentes/Header';
 
 
 function App() {
   return (
     <div className="App">
-      
+      <Header/>
       <Menu
       img = '../Img/IconoRS.png'
       />

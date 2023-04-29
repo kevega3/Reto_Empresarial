@@ -10,6 +10,7 @@ import imgSalas from './../Img/Salas.jpg'
 
 function Enfoque(props) {
     return(
+        <section id='#enfoque'>
         <div className="containerS">
 
             <div className="row">
@@ -76,6 +77,7 @@ function Enfoque(props) {
                 </div>
             </div>
         </div>
+        </section>
     );
 }
 
