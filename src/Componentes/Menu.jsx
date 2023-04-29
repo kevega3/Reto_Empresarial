@@ -1,6 +1,5 @@
 import React from "react";
 import '../styles/Menu.css';
-//import 'https://kit.fontawesome.com/62cb762d5c.js';
  
 
 
