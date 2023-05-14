@@ -1,0 +1,15 @@
+.containerS{
+    background: #3C3B3B;
+    padding: 0px 100px;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.reporte{
+    margin-left: 50px;
+    height: 500px;
+    width: 800px;
+}

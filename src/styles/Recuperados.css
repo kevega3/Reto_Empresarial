@@ -1,0 +1,14 @@
+.containerR  {
+    background: #3C3B3B;
+    padding: 0px 100px;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.containerR img {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+}

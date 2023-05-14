@@ -52,7 +52,7 @@ function Enfoque(props) {
                         <h3>Cabeceros</h3>
                         </Carousel.Caption>
                     </Carousel.Item>
-                    </Carousel>
+                </Carousel>
                 </div>
             </div>
         </div>

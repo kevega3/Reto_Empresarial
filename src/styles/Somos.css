@@ -1,0 +1,33 @@
+.containerS{
+    background: #3C3B3B;
+    padding: 0px 100px;
+    width: 100%;
+}
+
+.imgSomos{
+    width: 700px;
+    height: 500px;
+    background: white;
+    margin-left: 40px;
+    
+}
+.img{
+    width: 700px;
+    height: 500px;
+}
+
+.contenidoBic{
+    background: white;
+    margin-left: 40px;
+    padding: 50px;
+    width: 700px;
+    height: 500px;
+}
+
+.contenidoBic p{
+    font-size: 2.5vh;
+}
+
+.card{
+    border: white;
+}

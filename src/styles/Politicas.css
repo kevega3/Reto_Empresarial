@@ -6,6 +6,8 @@
 
 .player{
     padding: 15px;
+    width: max-content;
+    height: max-content;
 
 }
 
