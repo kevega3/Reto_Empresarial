@@ -1,6 +1,8 @@
 
 import './App.css';
 import './styles/Boostrap.css';
+import './styles/Contactenos.css';
+
 import Inicio from './Componentes/Inicio.jsx';
 import Menu from './Componentes/Menu.jsx';
 import  SilerVEmpresarial  from './Componentes/SlideVEmpresarial';
