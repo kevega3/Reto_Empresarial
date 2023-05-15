@@ -25,7 +25,7 @@ function Contactenos(){
 
                                     <div class="TextoContacto">
                                         <h2 class="">Email</h2>
-                                        <p>antirap3@gmail.com</p>   
+                                        <p>savilla.ambiental@gmail.com</p>   
                                     </div>
 
                                  {/* <!--Final iconoContacto--> */}
@@ -37,7 +37,7 @@ function Contactenos(){
 
                                  <div class="TextoContacto">
                                         <h2 class="">Celular</h2>
-                                        <p>+52 311 444 40 64</p>   
+                                        <p>+52 350 838 20 43</p>   
                                 </div>
                                  
                              </div>
@@ -49,7 +49,7 @@ function Contactenos(){
 
                                  <div class="TextoContacto">
                                         <h2 class="">Dirección</h2>
-                                        <p>Cra 107 a # 70F 76</p>   
+                                        <p>Cra 86B # 42-06 Sur, Bogotá DC.</p>   
                                 </div>
                                  
                              </div>
@@ -67,7 +67,7 @@ function Contactenos(){
 			<div className="formulario__grupo" id="grupo__nombre">
 				<label for="nombre" className="formulario__label">Nombre</label>
 				<div className="formulario__grupo-input">
-					<input type="text" className="formulario__input" name="nombre" id="nombre" placeholder="Kevin's Vega" />
+					<input type="text" className="formulario__input" name="nombre" id="nombre" placeholder="Nombre" />
 					<i className="formulario__validacion-estado fas fa-times-circle"></i>
 				</div>
 				<p className="formulario__input-error">El usuario tiene que ser de 4 a 16 dígitos y solo puede contener numeros, letras y guion bajo.</p>
@@ -86,7 +86,7 @@ function Contactenos(){
 			<div className="formulario__grupo" id="grclassNameupo__telefono">
 				<label for="telefono" className="formulario__label">Teléfono</label>
 				<div className="formulario__grupo-input">
-					<input type="text" className="formulario__input" name="telefono" id="telefono" placeholder="4491234567"/>
+					<input type="text" className="formulario__input" name="telefono" id="telefono" placeholder="Numero Tel"/>
 					<i className="formulario__validacion-estado fas fa-times-circle"></i>
 				</div>
 				<p className="formulario__input-error">El telefono solo puede contener numeros y el maximo son 14 dígitos.</p>
