@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Reto_Empresarial/build/static/css/main.963f0080.css",
-    "main.js": "/Reto_Empresarial/build/static/js/main.e60e3ed3.js",
+    "main.css": "/Reto_Empresarial/build/static/css/main.d077580a.css",
+    "main.js": "/Reto_Empresarial/build/static/js/main.4ab51b77.js",
     "static/media/Header.jpg": "/Reto_Empresarial/build/static/media/Header.4f24f3e70c8ce28fb748.jpg",
     "static/media/Reporte_de_Gestión_BIC_2021.pdf": "/Reto_Empresarial/build/static/media/Reporte_de_Gestión_BIC_2021.781e2445bf7b07628fd3.pdf",
     "static/media/carton.jpg": "/Reto_Empresarial/build/static/media/carton.78b75250ef7213173016.jpg",
@@ -20,11 +20,11 @@
     "static/media/Salas.jpg": "/Reto_Empresarial/build/static/media/Salas.cd2bfc20e0392d2c7f81.jpg",
     "static/media/Basecama.jpg": "/Reto_Empresarial/build/static/media/Basecama.41abc7b00f3eceaa30d0.jpg",
     "index.html": "/Reto_Empresarial/build/index.html",
-    "main.963f0080.css.map": "/Reto_Empresarial/build/static/css/main.963f0080.css.map",
-    "main.e60e3ed3.js.map": "/Reto_Empresarial/build/static/js/main.e60e3ed3.js.map"
+    "main.d077580a.css.map": "/Reto_Empresarial/build/static/css/main.d077580a.css.map",
+    "main.4ab51b77.js.map": "/Reto_Empresarial/build/static/js/main.4ab51b77.js.map"
   },
   "entrypoints": [
-    "static/css/main.963f0080.css",
-    "static/js/main.e60e3ed3.js"
+    "static/css/main.d077580a.css",
+    "static/js/main.4ab51b77.js"
   ]
 }
