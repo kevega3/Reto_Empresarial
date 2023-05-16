@@ -65,8 +65,8 @@ function Fooder(){
                 <div className="col-12  col-sm-12 col-md-5 col-lg-5 centrar">
                     
                 <div className="Contenedor_Logos_Fooder">
-                    <img className="Imagen_Fooder"  src={require(`../Img/PREAD.png`) } width='200px'  alt="" />
-                    <img  className="Imagen_Fooder" src={require(`../Img/Neciocios_Verdes.png`) } width='200px'  alt="" />
+                    <img className="Imagen_Fooder"  src={require(`../Img/certificacion.png`) } width='200px'  alt="" />
+                    <img  className="Imagen_Fooder" src={require(`../Img/negociosVerdes.png`) } width='200px'  alt="" />
                     <img  className="Imagen_Fooder" src={require(`../Img/IconoRS.png`) } width='200px'  alt="" />
                 </div>
                 </div>
